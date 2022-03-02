@@ -1,0 +1,16 @@
+c:\users\cesco\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+c:\users\cesco\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+c:\users\cesco\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+c:\users\cesco\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+c:\users\cesco\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\cesco\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\cesco\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe.licenses
+C:\Users\cesco\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\cesco\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\cesco\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Cesco.FW.Global.DBAdapter.dll
+C:\Users\cesco\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\cesco\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\office.dll
+C:\Users\cesco\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\cesco\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\cesco\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\office.xml
+C:\Users\cesco\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
